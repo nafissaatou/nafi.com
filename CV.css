@@ -1,0 +1,36 @@
+.globe{
+    display: flex;
+    margin: 2em;
+    border-spacing: 5px 1rem;
+    
+    
+}
+.gris{
+    border: 2%;
+    background-color: rgb(243, 80, 80);
+    width: 25rem;
+    margin-left: 10px;
+    text-align: center;    
+}
+h5{
+    border: 2%;
+    background-color: rgb(191, 117, 117);
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 30px;  
+}
+.dat{
+justify-content: baseline;
+display: flex;
+}
+img{
+    width: 25%;
+    height: 15%;
+    margin-left: 10%;
+    margin-top: 5px;
+}
+.vert{
+    margin-left: 50px;
+    background-color: rgb(84, 200, 186);
+    text-align: center;
+}
